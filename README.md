@@ -1,1 +1,1 @@
-# RAG_Chatbot-using-FAISS
+# RAG-Chatbot-using-FAISS
